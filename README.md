@@ -3,4 +3,4 @@ Data types are classifications that define the kind of values a variable or expr
 Data types play a very important role. 
 If the data types are defined clearly half of the problems get cleared.
 data can be of many types. data_data, data and python goes hand in hand.
-
+There are various types of topics or categories that are there in python.
