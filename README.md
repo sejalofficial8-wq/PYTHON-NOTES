@@ -6,3 +6,4 @@ data can be of many types. data_data, data and python goes hand in hand.
 There are various types of topics or categories that are there in python.
 Like operators, data types, conditional statements, loop, patterns.
 Patterns variate in many different ways. 
+python
