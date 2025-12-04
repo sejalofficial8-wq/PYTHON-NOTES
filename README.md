@@ -5,7 +5,7 @@ They determine how data is stored, the operations that can be performed on it, a
 Data types play a very important role. 
 If the data types are defined clearly half of the problems get cleared.
 Data can be of many types. data_data, data and python goes hand in hand.
-There are various types of topics or categories that are there in python.
-Like operators, data types, conditional statements, loop, patterns.
+There are various types of topics or categories that are there in python
+Like operators, data types, conditional statements, loop, patterns
 
 
